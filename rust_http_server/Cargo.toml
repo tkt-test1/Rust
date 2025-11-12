@@ -1,0 +1,12 @@
+# rust_http_server/Cargo.toml
+#
+# プロジェクト設定ファイル
+# 標準ライブラリのみを使用した高度なHTTPサーバー実装
+
+[package]
+name = "rust_http_server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# 標準ライブラリのみ使用（依存なし）
